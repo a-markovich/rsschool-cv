@@ -15,3 +15,9 @@ function multiply(a, b){
   return a * b
 }
 ```
+### Education
+* Vitebsk State Technological University
+* Сourse HTML CSS - website layout training
+### Languages:
+* Russian - Native
+* English - A1 (in process…)

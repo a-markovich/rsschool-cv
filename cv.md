@@ -9,3 +9,9 @@ I worked as a design engineer for eight years. There is little development in my
 * CSS
 * Git
 * VS Code
+### Code example:
+```
+function multiply(a, b){
+  return a * b
+}
+```
